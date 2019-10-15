@@ -60,6 +60,12 @@ var hacktobermap = [
     longitude: -56.3765232
   },
   {
+    name: "Kenny G",
+    location: "USA",
+    latitude: 39.951061,
+    longitude: -75.165619
+  },
+  {
     name: "Jarvis",
     location: "India",
     latitude: 20.5937,
